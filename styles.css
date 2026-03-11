@@ -5,6 +5,7 @@ body {
 	place-items: center;
 	font-family: "Barlow Semi Condensed", sans-serif;
 	font-style: normal;
+	height: 100vh;
 }
 h4 {
 	color: hsl(218, 44%, 22%);
