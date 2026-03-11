@@ -4,7 +4,6 @@ body {
 	grid-template-areas: "stack";
 	place-items: center;
 	font-family: "Barlow Semi Condensed", sans-serif;
-	font-style: normal;
 	height: 100vh;
 }
 h4 {
